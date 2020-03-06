@@ -10,6 +10,6 @@ or...
 
 > 9 Mile backup on I-77 South...accident blocking the Right 2 Lanes at Exit 31 Langtree Rd...consider NC 115 or NC 150 to NC 16 as  alternate
 
-Many tweets contains typical keywords such as *wildfire* of *accident* indicating the sentiment of the tweet.
+Many tweets contains typical keywords such as *wildfire* or *accident* indicating the sentiment of the tweet.
 
 See https://www.kaggle.com/c/nlp-getting-started for more information and the dataset.
