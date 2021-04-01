@@ -1,7 +1,7 @@
 # Disaster-or-not-
 Data preprocessing and classification of tweets with Naive-Bayes and neural networks
 
-The main goal of this project is to build ML models to classify each tweet wether it was about a disaster or not.
+The main goal of this project is to build ML models to classify each tweet whether it was about a disaster or not.
 Some of the tweets are...
 
 > Just got sent this photo from Ruby #Alaska as smoke from #wildfires pours into a school
